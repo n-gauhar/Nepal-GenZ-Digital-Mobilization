@@ -1,5 +1,25 @@
 # Sample Data
 
-This folder contains a small sample of publicly available YouTube metadata used to illustrate the expected input format for the preprocessing scripts.
+This folder contains a small sample of the YouTube metadata used in the Nepal Gen Z Digital Mobilization project. The sample is provided solely to illustrate the expected input format for the preprocessing and analysis scripts.
 
-The complete dataset used in the associated publications is not included because it forms part of an ongoing research project. The sample is provided solely to demonstrate the structure required by the code and is not intended to reproduce the study results.
+## File Description
+
+### `youtube_metadata_sample.csv`
+
+This file contains a small subset of publicly available YouTube metadata. It is intended for testing the preprocessing pipeline and demonstrating the required input format.
+
+The complete dataset used in the associated publications is not included in this repository because it forms part of ongoing research.
+
+## Metadata Description
+
+| Column           | Description                                         |
+| ---------------- | --------------------------------------------------- |
+| `video_title`    | Original YouTube video title.                       |
+| `video_ID`       | Unique YouTube video identifier.                    |
+| `channel_name`   | Name of the YouTube channel.                        |
+| `channel_id`     | Unique YouTube channel identifier.                  |
+| `likes`          | Number of likes at the time of data collection.     |
+| `views`          | Number of views at the time of data collection.     |
+| `comments_count` | Number of comments at the time of data collection.  |
+| `share_link`     | Public URL of the YouTube video.                    |
+| `published_at`   | Video publication timestamp (UTC, ISO 8601 format). |
