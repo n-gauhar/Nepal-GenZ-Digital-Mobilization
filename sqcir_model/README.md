@@ -10,7 +10,7 @@ This folder contains scripts for implementing and analyzing the SQCIR model used
 | `r0_surface_analysis.py` | Generates 3D parameter-surface plots showing how \(R_0\) changes with selected parameter pairs. |
 | `sqcir_data_fit.py` | Fits the SQCIR model to a cumulative engagement curve and generates the model-data fit plot. |
 | `mobility_snapshots.py` | Simulates SQCIR dynamics and generates mobility-style population snapshots at selected time points. |
-| `caputo_fractional_examples.py` | Compares the classical SQCIR model with Caputo fractional-order cases for \(\alpha=0.85\) and \(\alpha=0.70\). |
+| `caputo_fractional_examples.py` | Compares the classical SQCIR model with Caputo fractional-order cases for $\alpha = 0.85$ and $\alpha = 0.7$. |
 | `caputo_phase_peak_analysis.py` | Examines how varying fractional order \(\alpha\) affects the S-I phase portrait, infection peak time, and peak magnitude. |
 
 ## Generated Figures
