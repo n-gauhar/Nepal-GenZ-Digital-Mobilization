@@ -8,7 +8,7 @@ This folder contains a small sample of the YouTube metadata used in the Nepal Ge
 
 This file contains a small subset of publicly available YouTube metadata. It is intended for testing the preprocessing pipeline and demonstrating the required input format.
 
-The complete dataset used in the associated publications is not included in this repository because it forms part of ongoing research.
+The complete dataset is not included in this repository because it is being used in multiple ongoing research projects. A representative sample is provided to demonstrate the expected input format and enable users to run the preprocessing pipeline.
 
 ## Metadata Description
 
