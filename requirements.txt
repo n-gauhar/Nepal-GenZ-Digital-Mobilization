@@ -1,1 +1,7 @@
-
+numpy
+pandas
+matplotlib
+scipy
+deep-translator
+emoji
+langdetect
